@@ -65,6 +65,7 @@ main()
     	{
     		printf("%d\t",S[i][j]);
 		}printf("\n");
+	    printf("hi");
 	}
     
     
